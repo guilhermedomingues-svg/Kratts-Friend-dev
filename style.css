@@ -11,7 +11,10 @@ header{
     width: 100%;
 
     h1{
-        margin-left: 2%;
+        margin-left: 5%;
+    }
+    h2{
+        margin-left: 5%;
     }
     img{
         height: 150px;
@@ -41,4 +44,17 @@ header{
     gap: 20px;
     text-align: center;
     align-items: center;
+}
+label{
+    align-items: last baseline;
+    justify-content: flex-end;
+    height: auto;
+}
+select{
+    align-items: last baseline;
+    justify-content: flex-end;
+    height: auto;
+}
+p{
+    font-size: large;
 }
