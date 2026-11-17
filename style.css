@@ -145,6 +145,10 @@ main{
                 border-width: 2px;
                 border-style: solid;
                 width: 204px;
+
+                p{
+                    margin: 2px;
+                }
                 
                 img{
                     border-radius: 13px;
@@ -179,6 +183,10 @@ main{
                 border-width: 2px;
                 border-style: solid;
                 width: 204px;
+
+                p{
+                    margin: 2px;
+                }
                 
                 img{
                     border-radius: 13px;
@@ -212,6 +220,10 @@ main{
                 border-width: 2px;
                 border-style: solid;
                 width: 204px;
+
+                p{
+                    margin: 2px;
+                }
                 
                 img{
                     border-radius: 13px;
@@ -226,7 +238,7 @@ main{
         margin-left: 25px;
         background-color: grey;
         width: 57%;
-        height: 350px;
+        height: 400px;
         border: black;
         border-radius: 15px;
         border-width: 5px;
@@ -245,6 +257,10 @@ main{
                 border-width: 2px;
                 border-style: solid;
                 width: 204px;
+
+                p{
+                    margin: 2px;
+                }
                 
                 img{
                     border-radius: 13px;
